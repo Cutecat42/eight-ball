@@ -1,0 +1,19 @@
+.start {
+    background-color: black;
+    color: white;   
+}
+
+.green {
+    background-color: green;
+    color: white;
+}
+
+.goldenrod {
+    background-color: goldenrod;
+    color: white;
+}
+
+.red {
+    background-color: red;
+    color: white;
+};
